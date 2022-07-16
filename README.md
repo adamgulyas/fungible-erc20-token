@@ -1,0 +1,1 @@
+# fungible-erc20-token
